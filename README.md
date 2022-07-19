@@ -1,4 +1,4 @@
-# CamScanner-In-Python
+# Document Scanner-In-Python
 Build your own document scanner with OpenCV Python
 
 ## What is this ?
