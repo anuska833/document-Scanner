@@ -1,3 +1,4 @@
+#finding the end co-ordinates of the document 
 import numpy as np
 
 def mapp(h):
